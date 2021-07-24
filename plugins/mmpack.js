@@ -60,7 +60,7 @@ Asena.addCommand({ pattern: 'sir ?(.*)', fromMe: false, dontAddCommandList: true
 
     }));
 
-Asena.addCommand({ pattern: 'yasai ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Asena.addCommand({ pattern: 'yasai ?(.*)', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(ll);
 
