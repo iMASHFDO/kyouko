@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="#"><img title="iMASH BOT🤖👌🏻" src="https://i.postimg.cc/05TPgyYM/c3efa21a7c40c80f10cae87ff52026dc3b50c4b5r1-800-800-hq.png"></a>
+<a href="#"><img title="iMASH BOT🤖👌🏻" src="https://i.postimg.cc/fTKw4nNV/IMG-20210730-WA0018.jpg"></a>
 </p>
 
 ----
