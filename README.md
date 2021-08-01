@@ -10,7 +10,7 @@
 
 iMASH BOT🤖👌🏻
 ```
-Kyouko B⭕T, Made by Thevindu Hansara edit by imash
+Kyouko B⭕T, Made by Thevindu Hansara edit by imash1
 ```
 ----
  iMASH BOT🤖👌🏻 / **Setup**
